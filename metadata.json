@@ -1,0 +1,5 @@
+{
+  "name": "Putimach Admin Panel ",
+  "description": "A comprehensive product management admin panel with Supabase database integration, Cloudinary image uploads, and Gemini AI-powered description generation.",
+  "requestFramePermissions": []
+}
